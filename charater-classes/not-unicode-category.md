@@ -1,0 +1,1 @@
+# \P{unicode-category} Không khớp với ký tự đặc biệt. Bắt buộc có cờ u

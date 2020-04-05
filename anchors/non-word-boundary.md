@@ -1,0 +1,1 @@
+# \B Khớp với bất kỳ vị trí không phải word bound

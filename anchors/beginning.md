@@ -1,0 +1,1 @@
+# ^ Khớp với bắt đầu của một chuỗi hoặc khớp với bắt đầu của nhiều dòng nếu sử dụng với cờ (m). Đây là khớp vị trí không phải ký tự

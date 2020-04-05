@@ -1,0 +1,1 @@
+# \S   Khớp vơi bất kỳ ký tự không phải khoảng trắng(spaces, tabs, line breaks )
